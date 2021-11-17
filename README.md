@@ -2,7 +2,7 @@
 <div>
   <h1>Hi there,</h1>
 - 🌱 I’m currently learning Web Development.<br>
-- 👀 Familiar with HTML, CSS, JavaScript.<br>
+- 👀 Familiar with HTML, CSS, Sass, JavaScript, React.js, Bootstrap<br>
 - 💻 Ready to contribute in open source projects.<br>
 - 🗣️ Language : English and Hindi.<br>
 </div>
