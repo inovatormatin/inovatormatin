@@ -33,6 +33,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/manish-kumar-09a114184/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="https://www.linkedin.com/in/manish-kumar-09a114184/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/inovatormatin/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="https://www.instagram.com/inovatormatin/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/manish-kumar-09a114184/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="https://www.linkedin.com/in/manish-kumar-09a114184/" height="40" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/inovatormatin/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="https://www.instagram.com/inovatormatin/" height="40" width="40" /></a>
 </p>
