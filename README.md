@@ -7,11 +7,10 @@
 - 🗣️ Language : English and Hindi.<br>
 </div>
 
-<h4>Top languages</h4>
-
-![Inovator MatinStats](https://github-readme-stats.vercel.app/api?username=inovatormatin&show_icons=true&title_color=ffeb3b&text_color=f2af29ed&border_color=f2af29ed&bg_color=323232&icon_color=ffffff&card_width=500)
-
-[![Most LangsUesd](https://github-readme-stats.vercel.app/api/top-langs/?username=inovatormatin&layout=compact&title_color=ffeb3b&text_color=f2af29ed&border_color=f2af29ed&bg_color=323232&card_width=450)](https://github.com/inovatormatin/github-readme-stats)
+<a href="https://github.com/inovatormatin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=inovatormatin&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inovatormatin&theme=buefy&layout=compact" />
+</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
