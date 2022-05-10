@@ -7,12 +7,11 @@
 - 🗣️ Language : English and Hindi.<br>
 </div>
 
-<div>
-  <a href="https://github.com/inovatormatin">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=inovatormatin&theme=buefy&show_icons=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inovatormatin&theme=buefy&layout=compact" />
-  </a>
-</div>
+<br>
+<a href="https://github.com/inovatormatin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=inovatormatin&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inovatormatin&theme=buefy&layout=compact" />
+</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
