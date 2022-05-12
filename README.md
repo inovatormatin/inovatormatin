@@ -32,7 +32,10 @@
 </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/manish-kumar-09a114184/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="https://www.linkedin.com/in/manish-kumar-09a114184/" height="40" width="40" /></a>
-<a href="https://www.instagram.com/inovatormatin/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="https://www.instagram.com/inovatormatin/" height="40" width="40" /></a>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/manish-kumar-09a114184/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sanchit%20Soni-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/inovatormatin/"  target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sanchit__soni-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:manojgeetparmar@gmail.com"  target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-sanchitsony@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
