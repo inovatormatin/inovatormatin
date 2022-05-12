@@ -35,7 +35,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/manish-kumar-09a114184/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sanchit%20Soni-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/inovatormatin/"  target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sanchit__soni-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:manojgeetparmar@gmail.com"  target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-sanchitsony@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/manish-kumar-09a114184/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Manish%20Kumar-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/inovatormatin/"  target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-inovatormatin-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:manojgeetparmar@gmail.com"  target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-manojgeetparmar@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
