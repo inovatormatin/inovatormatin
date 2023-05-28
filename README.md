@@ -42,3 +42,4 @@
 <a href="https://www.instagram.com/inovatormatin/"  target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-inovatormatin-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:manojgeetparmar@gmail.com"  target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-manojgeetparmar@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+[![](https://visitcount.itsvg.in/api?id=inovatormatin&label=Profile%20visitor&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
