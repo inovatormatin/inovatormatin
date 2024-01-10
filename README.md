@@ -30,8 +30,10 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="40" height="40"/>
-  <img src="https://onlcontent.blob.core.windows.net/images/cimgsystem_mongodb_ico.png" alt="mongoDB" width="38" height="40"/>
+  <img src="https://newrelic.com/sites/default/files/2021-10/mongo_logo.jpg" alt="mongoDB" width="38" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
+  <img src="https://repository-images.githubusercontent.com/347723622/92065800-865a-11eb-9626-dff3cb7fef55" alt="heroku" width="40" height="40"/>
+  <img src="https://miro.medium.com/v2/resize:fit:493/1*HHGc3cQgpSVes0maUAnYog.png" alt="heroku" width="40" height="40"/>
 </p>
 
 <h3 align="left">Connect with me:</h3>
