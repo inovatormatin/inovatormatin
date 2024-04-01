@@ -1,20 +1,28 @@
 <!-- <a href="https://inovatormatin.com">![aboutMe](https://user-images.githubusercontent.com/72307107/121807779-3fe1cc80-cc73-11eb-9efa-d76d0b734e23.png)</a> -->
-<div>
+<h2>Hi Buddy</h2>
 
-👋 Hi, I'm Manish Kumar, a passionate Frontend Developer with 2.5 years of hands-on experience in crafting seamless user experiences using React.js, JavaScript, CSS, and HTML. I have a strong command of frontend technologies, including popular frameworks like Material UI and Bootstrap.
 
-🚀 Recently, I took my skills to the next level by diving into the world of Node.js, MongoDB, and Express.js. I even successfully built my own project to further solidify my expertise in full-stack development.
+<table style="border: none;">
+  <tr>
+    <td>
+      <div>
+        <p>👋 Full-stack Developer with 3+ years of experience</p>
+        <p>💻 Specializing in the MERN stack: MongoDB, Express, React, Node.js</p>
+        <p>🚀 Frontend expertise: React, Next.js, Redux</p>
+        <p>🛠 Backend skills: Node.js, Express, MongoDB</p>
+        <p>🎨 Proficient in Figma, Adobe Illustrator for design translation</p>
+        <p>🔍 Eager learner and passionate about staying updated with the latest tech trends</p>
+      </div>
+    </td>
+    <td><img  src="./coder.gif" alt="Coder gif"/></td>
+  </tr>
+</table>
+<p>Let's connect and explore how we can create remarkable projects together! Feel free to reach out—I'm always open to new opportunities and exciting ventures.</p> 
 
-💼 With 1.5 years of industry experience, I have honed my collaborative skills, working effectively within teams to deliver exceptional results. I also possess a keen interest in Chrome extension development, adding an extra edge to my skill set.
-
-💡 What sets me apart is my unwavering commitment to delivering top-notch work to clients and teams. I take pride in going the extra mile to exceed expectations and create user-centric solutions.
-
-⏰ I thrive in high-pressure environments and approach challenges with a calm and composed demeanor. Kind and humble by nature, I believe in fostering positive relationships and nurturing a collaborative work culture.
-
-Let's connect and explore how we can create remarkable projects together! Feel free to reach out—I'm always open to new opportunities and exciting ventures.
-</div>
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=inovatormatin&theme=highcontrast" alt="GitHub Streak" style="width: 50%"/>
+<div align="center" style="width: 100%">
+<img  src="https://github-readme-streak-stats.herokuapp.com?user=inovatormatin&theme=highcontrast" alt="GitHub Streak" style="width: 80%"/>
+</div>
 <div>
 <h3 align="left">Languages and Tools:</h3>
   <h4 align="left">Using frequently:</h4>
